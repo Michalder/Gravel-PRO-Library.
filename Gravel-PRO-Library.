@@ -1,0 +1,60 @@
+Gravel-PRO-Library/
+│
+├── README.md
+├── LICENSE
+├── CHANGELOG.md
+├── ROADMAP.md
+├── .gitignore
+│
+├── docs/
+│   ├── philosophy/
+│   │   └── .gitkeep
+│   ├── nutrition/
+│   │   └── .gitkeep
+│   └── racing/
+│       └── .gitkeep
+│
+├── workouts/
+│   ├── 01_VO2/
+│   │   └── .gitkeep
+│   ├── 02_Threshold/
+│   │   └── .gitkeep
+│   ├── 03_OverUnder/
+│   │   └── .gitkeep
+│   ├── 04_SweetSpot/
+│   │   └── .gitkeep
+│   ├── 05_Tempo/
+│   │   └── .gitkeep
+│   ├── 06_Endurance/
+│   │   └── .gitkeep
+│   ├── 07_Ultra/
+│   │   └── .gitkeep
+│   ├── 08_Race/
+│   │   └── .gitkeep
+│   ├── 09_Recovery/
+│   │   └── .gitkeep
+│   └── 10_Testing/
+│       └── .gitkeep
+│
+├── plans/
+│   ├── 08_weeks/
+│   │   └── .gitkeep
+│   ├── 12_weeks/
+│   │   └── .gitkeep
+│   ├── 24_weeks/
+│   │   └── .gitkeep
+│   └── Ultra_308km/
+│       └── .gitkeep
+│
+├── releases/
+│   └── v2.0.0/
+│       └── .gitkeep
+│
+├── media/
+│   ├── images/
+│   │   └── .gitkeep
+│   └── logo/
+│       └── .gitkeep
+│
+└── tools/
+    └── .gitkeep
