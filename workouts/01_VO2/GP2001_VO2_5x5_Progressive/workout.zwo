@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workout_file>
+  <author>Gravel PRO Library</author>
+  <name>GP2001 VO2 5x5 Progressive</name>
+  <description>5×5' VO₂ intervals, progressive intensity. On: 5' increasing from 105%→117% FTP. Off: 5' easy at 50% FTP.</description>
+  <sportType>bike</sportType>
+  <workout>
+    <Warmup Duration="600" PowerLow="0.50" PowerHigh="0.75" />
+    <SteadyState Duration="300" Power="1.05" />
+    <SteadyState Duration="300" Power="0.50" />
+    <SteadyState Duration="300" Power="1.08" />
+    <SteadyState Duration="300" Power="0.50" />
+    <SteadyState Duration="300" Power="1.11" />
+    <SteadyState Duration="300" Power="0.50" />
+    <SteadyState Duration="300" Power="1.14" />
+    <SteadyState Duration="300" Power="0.50" />
+    <SteadyState Duration="300" Power="1.17" />
+    <SteadyState Duration="300" Power="0.50" />
+    <Cooldown Duration="600" Power="0.50" />
+  </workout>
+</workout_file>
